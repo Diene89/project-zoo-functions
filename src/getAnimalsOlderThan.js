@@ -5,4 +5,4 @@ const getAnimalsOlderThan = (animal, age) => data.species.find((name) => name.na
 
 module.exports = getAnimalsOlderThan;
 
-//Ajuda de Leonardo Diman
+// Ajuda de Leonardo Diman
