@@ -12,4 +12,4 @@ Projeto desenvolvido no bloco 8 de Fundamentos de Desenvolvimento Web.
 
 ## O que foi desenvolvido
 
-- Nesse projeto foram desenvolvido habilidades para trabalhar com as Higher Order Functions através da implementação de funções para atender aos requisitos propostos.
+- Nesse projeto foram desenvolvidas habilidades para trabalhar com as Higher Order Functions através da implementação de funções para atender aos requisitos propostos.
